@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capital of France
+This line was added before add to stage
+This line was added after add to stage
